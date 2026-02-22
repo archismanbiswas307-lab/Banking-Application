@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap": {
+        "java": "cd $dir && javac -cp \"lib/*\" *.java && java -cp \"lib/*;.\" $fileNameWithoutExt"
+    },
+    "cSpell.words": [
+        "Upto"
+    ],
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.project.explorer.showNonJavaResources": true
+}

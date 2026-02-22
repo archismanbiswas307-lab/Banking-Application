@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Java",
+            "type": "java",
+            "name": "Launch SignUpOne",
+            "request": "launch",
+            "mainClass": "SignUpOne",
+            "projectName": "Banking Application",
+            "cwd": "${workspaceFolder}",
+            "args": "",
+            "classPaths": [
+                "${workspaceFolder}/lib/*"
+            ]
+        }
+    ]
+}
